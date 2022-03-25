@@ -1,5 +1,7 @@
 <?php
 
+namespace WarfaceTypes;
+
 class ClassesEnum
 {
     public const RIFLEMAN = 1;
